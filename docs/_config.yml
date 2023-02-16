@@ -1,0 +1,12 @@
+name: Your Name
+description: Description of your portfolio
+theme: vue
+nav:
+  - text: Home
+    link: /
+  - text: About
+    link: /about
+  - text: Projects
+    link: /projects
+  - text: Contact
+    link: /contact
